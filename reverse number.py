@@ -1,3 +1,5 @@
+#wap to reverse the series of number entered by the user.
+
 t = int(input("enter the number of test cases: "))
 
 for i in range(t):
