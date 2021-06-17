@@ -1,8 +1,8 @@
 #wap to reverse the series of number entered by the user.
 
-T = int(input("enter the number of test cases: "))
+t = int(input("enter the number of test cases: "))
 
-for i in range(T):
+for i in range(t):
     num = input("enter number: ")
     l1=len(num)
     num = int(num)
