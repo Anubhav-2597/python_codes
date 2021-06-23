@@ -1,3 +1,5 @@
+#WAP to find square root a series of numbers input by user
+
 t = int(input("enter test cases: "))
 
 for i in range(t):
